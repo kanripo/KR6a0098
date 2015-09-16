@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 普法義經
+#+DATE: 2015-08-30 19:30:46.860280
+#+PROPERTY: JUAN 0
