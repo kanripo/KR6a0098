@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:30:47.685420
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 6:36
 #+TITLE: 普法義經
 #+PROPERTY: CBETA_ID T01n0098
 #+PROPERTY: ID KR6a0098
